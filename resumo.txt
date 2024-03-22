@@ -1,0 +1,13 @@
+1° git init
+
+2° git status
+
+3° git add
+
+4° git status
+
+5° git commit -a -m "alguma coisa aleatorio"
+
+6° criar o repositório no git hub, e copiar o codigo la com git add
+
+7° git push origin master
